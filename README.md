@@ -25,7 +25,7 @@ I am a Front-end Developer and UI/UX designer <img src="https://media.giphy.com/
 
 - :seedling: Exploring different languages, frameworks & technologies.
 
-- :zap: In my free time, I am keen on swimming and developing my blog, making and editing videos, drawing in watercolor and graphics, and traveling.
+- :zap: In my free time, I am keen on videography, design, swimming, developing my blog, drawing in watercolor and graphics, and traveling.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-polina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/polinazueva/)
 
