@@ -20,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-end Developer and UI/UX designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Netherlands.
+I am a Front-end Developer and UX designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Netherlands.
 - :telescope: I’m working as a Software Developer and Designer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring different languages, frameworks & technologies.
